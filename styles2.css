@@ -1,0 +1,16 @@
+#cuerpo {
+    background-color: aqua;
+    text-align: center;
+    
+}
+#welcome-section {
+    color: purple;
+    align-items: center;
+}
+#div-ejemplo{
+    text-align: center;
+}
+#art-ejemplo{
+    text-align: left;
+    margin-left: 600px;
+}
